@@ -6,6 +6,7 @@ public class c3 {
 		System.out.println("1");
 		System.out.println("0");
 		System.out.println("aaaa");
+		System.out.println("2");
 	}
 
 }
